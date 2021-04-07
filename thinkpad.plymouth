@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=Thinkpad Plymouth
+Description=A Plymouth of Thinkpad
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/thinkpad
+ScriptFile=/usr/share/plymouth/themes/thinkpad/thinkpad.script
